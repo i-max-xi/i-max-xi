@@ -37,13 +37,13 @@ I specialise in JavaScript and React to build awesome pages and applications for
         <span><strong>Sass</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+    </tr>
+    <tr>
       </td>
         <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-    </tr>
-    <tr>
        <td width="25%" align="center">
         <span>Node JS</span><br><br><br>
         <img height="64px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png">
@@ -55,7 +55,7 @@ I specialise in JavaScript and React to build awesome pages and applications for
 
 - I am currently learning 🙈:
       <div width="15%" align="left">
-        <span>Ruby</span><br><br><br>
+        <span>Ruby</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
       </div>
 
