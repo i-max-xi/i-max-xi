@@ -7,7 +7,7 @@ I specialise in JavaScript and React to build awesome pages and applications for
 ### Send me a text 💬:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:maxappiahofficial@gmail.com)
 
-<br><br>
+<br>
 
 ## Coding Statistics 📈
 [![Carlyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-max-xi&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
