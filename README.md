@@ -1,5 +1,5 @@
 # Hi there I'm Max👋
->I always love a good challenge.
+>I always love a good challenge. <br>
 I specialise in JavaScript and React to build awesome pages and applications for you
 
 ### Send me a text 💬:
