@@ -1,8 +1,12 @@
-## Hi there 👋
->I always love a good challenge. I specialise in JavaScript and React to build awesome pages and applications
+## Hi there I'm Max👋
+>I always love a good challenge. I specialise in JavaScript and React to build awesome pages and applications for you
 
-### Send me a text :
-[By Mail 💬](maxappiahofficial@gmail.com)
+### Send me a text 💬:
+[maxappiahofficial@gmail.com](maxappiahofficial@gmail.com)
+
+
+### Coding Statistics 📈
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-max-xi&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Here are some ideas to get you started:
