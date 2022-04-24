@@ -23,17 +23,17 @@ I specialise in JavaScript and React to build awesome pages and applications for
         <span>Redux</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="35%" align="center">
         <span><strong>CSS3</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="35%" align="center">
         <span><strong>Bootstrap</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
-      <td width="35%" align="center">
+      <td width="40%" align="center">
         <span><strong>Sass</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
