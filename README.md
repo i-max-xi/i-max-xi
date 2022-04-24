@@ -39,22 +39,22 @@ I specialise in JavaScript and React to build awesome pages and applications for
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
         <td width="25%" align="center">
-        <span>Node JS</span><br><br><br>
-        <img height="64px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
     <tr>
-     <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+       <td width="25%" align="center">
+        <span>Node JS</span><br><br><br>
+        <img height="64px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png">
       </td>
     </tr>
   </tbody>
 </table>
 <hr>
 
-- I am currently learning:
-      <div width="15%" align="center">
+- I am currently learning 🙈:
+      <div width="15%" align="left">
         <span>Ruby</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
       </div>
