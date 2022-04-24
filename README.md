@@ -1,8 +1,8 @@
-### Hi there 👋
-|I always love a good challenge. I specialise in JavaScript and React to build |||||awesome pages and applications
+## Hi there 👋
+>I always love a good challenge. I specialise in JavaScript and React to build awesome pages and applications
 
-# Send me a text 💬:
-[By mail](maxappiahofficial@gmail.com)
+### Send me a text :
+[By Mail 💬](maxappiahofficial@gmail.com)
 
 
 Here are some ideas to get you started:
