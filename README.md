@@ -1,5 +1,5 @@
 ### Hi there 👋
-`I always love a good challenge. I specialise in JavaScript and React to build awesome pages and applications`
+|I always love a good challenge. I specialise in JavaScript and React to build |||||awesome pages and applications
 
 # Send me a text 💬:
 [By mail](maxappiahofficial@gmail.com)
