@@ -14,6 +14,8 @@ I specialise in JavaScript and React to build awesome pages and applications for
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-max-xi&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Max's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i_max_xi&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies
 
 <table>
@@ -51,6 +53,10 @@ I specialise in JavaScript and React to build awesome pages and applications for
        <td width="35%" align="center">
         <span>Node JS</span><br><br><br>
         <img height="64px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png">
+      </td>
+    <td width="35%" align="center">
+        <span>FIGMA</span><br><br><br>
+        <img height="64px" src="https://uxpickle.com/wp-content/uploads/2021/11/icon-figma-app-square.png">
       </td>
     </tr>
   </tbody>
