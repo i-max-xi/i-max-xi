@@ -20,25 +20,25 @@ I specialise in JavaScript and React to build awesome pages and applications for
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/create-react-app.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Redux</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
-      <td width="30%" align="center">
+      <td width="20%" align="center">
         <span><strong>CSS3</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="30%" align="center">
+      <td width="20%" align="center">
         <span><strong>Bootstrap</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
-      <td width="40%" align="center">
+      <td width="20%" align="center">
         <span><strong>Sass</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
