@@ -1,6 +1,6 @@
 # Hi there I'm Max👋
 I always love a good challenge. <br>
-I specialise in JavaScript and React to build awesome pages and applications for you
+I specialise in JavaScript and React to build awesome features and applications for you
 
 <br>
 
