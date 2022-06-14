@@ -45,17 +45,21 @@ I specialise in JavaScript and React to build awesome pages and applications for
     </tr>
     <tr>
       </td>
-        <td width="25%" align="center">
+        <td width="20%" align="center">
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-       <td width="35%" align="center">
+       <td width="20%" align="center">
         <span>Node JS</span><br><br><br>
         <img height="64px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png">
       </td>
-    <td width="35%" align="center">
+      <td width="20%" align="center">
         <span>FIGMA</span><br><br><br>
         <img height="64px" src="https://uxpickle.com/wp-content/uploads/2021/11/icon-figma-app-square.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Firebase</span><br><br><br>
+        <img height="64px" src="http://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png">
       </td>
     </tr>
   </tbody>
