@@ -38,10 +38,6 @@ I specialise in JavaScript and React to build awesome pages and applications for
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>Sass</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
     </tr>
     <tr>
       </td>
@@ -61,6 +57,22 @@ I specialise in JavaScript and React to build awesome pages and applications for
         <span>Firebase</span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AXf9DTXM9CSpOOsOYGwyUDJOMUuIS42Kow&usqp=CAU">
       </td>
+    </tr>
+    <tr>
+      <td width="20%" align="center">
+        <span>Tailwind</span><br><br><br>
+        <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Sass</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+       </td>
+       <td width="20%" align="center">
+        <span><strong>Google Cloud</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://www.gstatic.com/devrel-devsite/prod/v71d343e3cc2eb4caa8b980bdf6f88a7cfba1dec596e6d0d545706171d5000e66/cloud/images/favicons/onecloud/apple-icon.png">
+       </td>
     </tr>
   </tbody>
 </table>
