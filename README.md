@@ -81,10 +81,13 @@ I specialise in JavaScript and React to build awesome features and applications 
 
 
 <h3>Hit me up on these socials<h3>
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:maxappiahofficial@gmail.com)
+  
+<div style="display:inline-block">
+  
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:maxappiahofficial@gmail.com)
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/appiah-gyimah-maxwell-0212b41a1/) 
   
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/Max90763543)
+</div>
 
