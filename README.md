@@ -73,11 +73,6 @@ I specialise in JavaScript and React to build awesome features and applications 
 </table>
 <hr>
 
-- I am currently learning 🙈:
-      <div width="15%" align="left">
-        <span>Ruby</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
-      </div>
 
 
 <h3>Hit me up on these socials<h3>
